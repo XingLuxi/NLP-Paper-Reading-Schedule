@@ -9,7 +9,7 @@
 | 2017.04.15 | 雷扬帆 | Character-based Neural Machine Translation |   |
 | 2017.05.06 | 邢璐茜 | GAN4NLP |  |
 | 2017.05.06 | 魏相鹏 | Neural Machine Translation with Reconstruction  | [link](https://arxiv.org/abs/1611.01874) |
-| 2017.05.06 | 雷扬帆 | Minimum Risk Training & Modeling Coverage | [link1](https://arxiv.org/abs/1512.02433)/ [link2](https://arxiv.org/abs/1601.04811) |
+| 2017.05.06 | 雷扬帆 | Minimum Risk Training & Modeling Coverage | <br>[link1](https://arxiv.org/abs/1512.02433)<br>/ <br>[link2](https://arxiv.org/abs/1601.04811)<br> |
 | 2017.05.27 | 邢璐茜 | Incorporating Copying Mechanism in Sequence-to-Sequence Learning | [link](http://www.aclweb.org/anthology/P16-1154) |
 | 2017.05.27 | 魏相鹏 | Convolutional Sequence to Sequence Learning | [link](https://arxiv.org/abs/1705.03122) |
 | 2017.05.27 | 雷扬帆 | 多语神经机器翻译 |  |
