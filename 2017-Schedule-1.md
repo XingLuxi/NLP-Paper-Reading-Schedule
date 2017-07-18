@@ -1,6 +1,6 @@
 # 2017年讨论组论文报告会
 | 日期| 报告人  | 报告主题 | 简介 |
-|:----|:--|:---------|:--|
+|:----|:-------|:--------|:--|
 | 03.25 | 邢璐茜 | Generative Adversarial Nets | [link](https://arxiv.org/abs/1406.2661) |
 | 03.25 | 魏相鹏 | Neural Architectures for Named Entity Recognition | [link](https://arxiv.org/pdf/1603.01360.pdf) |
 | 03.25 | 雷扬帆 | 使用字符级解码器的机器翻译 |  |
