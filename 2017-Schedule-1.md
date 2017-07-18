@@ -4,7 +4,7 @@
 | 03.25 | 邢璐茜 | Generative Adversarial Nets | [link](https://arxiv.org/abs/1406.2661) |
 | 03.25 | 魏相鹏 | Neural Architectures for Named Entity Recognition | [link](https://arxiv.org/pdf/1603.01360.pdf) |
 | 03.25 | 雷扬帆 | 使用字符级解码器的机器翻译 |  |
-| 04.15 | 邢璐茜 | Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets | [link](https://arxiv.org/abs/1703.04887) |
+| 04.15 | 邢璐茜 | CSGAN for Machine Translation | [link](https://arxiv.org/abs/1703.04887) |
 | 04.15 | 魏相鹏 | Hybrid Word-Character Models for NMT | [link](https://arxiv.org/abs/1604.00788) |
 | 04.15 | 雷扬帆 | Character-based Neural Machine Translation |   |
 | 05.06 | 邢璐茜 | GAN4NLP |  |
