@@ -16,7 +16,7 @@
 | 06.17 | 邢璐茜 | Context Gates for Neural Machine Translation | [link](https://arxiv.org/abs/1608.06043) |
 | 06.17 | 魏相鹏 | Massive Exploration of Neural Machine Translation Architectures | [link](https://arxiv.org/abs/1703.03906) |
 | 06.17 | 雷扬帆 | String-based Translation  | <br>[link1](https://www.isi.edu/natural-language/mt/emnlp16-nmt-grammar.pdf)</br><br>[link2](https://arxiv.org/abs/1704.04743)</br><br>[link3](https://arxiv.org/abs/1705.01020)</br> |
-| 07.22 | 雷扬帆 | Learning Crosslingual Word Embeddings without Bilingual corpora | [link](https://arxiv.org/abs/1606.09403) |
+| 07.22 | 雷扬帆 | What do Neural Machine Translation Models Learn about Morphology?<br>Visualizing and understanding neural machine translation</br> | [link1](https://arxiv.org/abs/1704.03471)<br>[link2](http://nlp.csai.tsinghua.edu.cn/~ly/papers/acl2017_dyz.pdf)</br> |
 | 07.22 | 邢璐茜 | Knowledge-Based Semantic Embedding for Machine Translation | [link](http://aclweb.org/anthology/P16-1212) |
 | 07.22 | 魏相鹏 | | [link]() |
 
