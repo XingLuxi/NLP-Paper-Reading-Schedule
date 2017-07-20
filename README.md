@@ -4,6 +4,9 @@
 
 前瞻组 自然语言处理小组
 
-论文阅读、讨论分享会安排表
+#3# 论文阅读、讨论分享会安排表
 
-### [2017年 讨论组时间表](https://github.com/XingLuxi/NLP-Paper-Reading-Schedule/blob/master/2017-Schedule-1.md) 
+ [2017年 讨论组时间表](https://github.com/XingLuxi/NLP-Paper-Reading-Schedule/blob/master/2017-Schedule-1.md) 
+### DL for NLP Paper
+[深度学习下的自然语言处理必读论文](https://github.com/XingLuxi/NLP-Paper-Reading-Schedule/blob/master/dl-for-nlp-paper.md) 
+
