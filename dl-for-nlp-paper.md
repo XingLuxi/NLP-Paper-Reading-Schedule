@@ -1,4 +1,7 @@
-# 深度学习下的自然语言处理必读论文
+# 深度学习下的自然语言处理必读论文）
+------------
+（点击题目直达论文链接）
+
 ## Language Modle
 
 - [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
@@ -23,3 +26,8 @@
 
 ## Neural Machine Translation
 
+
+- 华为诺亚方舟实验室神经机器翻译“三部曲”：
+    - [Modeling Coverage for Neural Machine Translation](https://arxiv.org/abs/1601.04811)
+    - [Context Gates for Neural Machine Translation](https://arxiv.org/abs/1608.06043)
+    - [Neural Machine Translation with Reconstruction](https://arxiv.org/abs/1611.01874)
