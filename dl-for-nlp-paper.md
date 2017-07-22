@@ -14,6 +14,7 @@
 
 - [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 - [A Scalable Hierarchical Distributed Language Model](http://www.cs.toronto.edu/~fritz/absps/andriytree.pdf)
+- [Recurrent neural network based language model](https://www.researchgate.net/publication/221489926_Recurrent_neural_network_based_language_model) 
 - [Recurrent Neural Network Regularization](https://arxiv.org/abs/1409.2329)
 
 ## 分布式表示(词向量)
