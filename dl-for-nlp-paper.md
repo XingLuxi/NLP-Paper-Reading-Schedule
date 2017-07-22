@@ -37,7 +37,7 @@
 
 - 华为诺亚方舟实验室神经机器翻译“三部曲”：
     - [Modeling Coverage for Neural Machine Translation](https://arxiv.org/abs/1601.04811)
-            - 覆盖率（Coverage）机制：通过记录哪些词已经被翻译了，鼓励系统翻译未被翻译的词。这个方法可以显著减少遗漏翻译和过度翻译的错误数量。
+        - 覆盖率（Coverage）机制：通过记录哪些词已经被翻译了，鼓励系统翻译未被翻译的词。这个方法可以显著减少遗漏翻译和过度翻译的错误数量。
     - [Context Gates for Neural Machine Translation](https://arxiv.org/abs/1608.06043) 
         - 上下文门（Context Gate）方法：在译文生成过程中，实词和虚词对原文信息的依赖是不一样的。该方法通过自动控制原文信息参与生成不同类型译文词的程度，使原文信息更有序、更完整地传输到译文中。
    - [Neural Machine Translation with Reconstruction](https://arxiv.org/abs/1611.01874)
