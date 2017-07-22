@@ -1,6 +1,14 @@
-# 深度学习下的自然语言处理必读论文）
+# 深度学习下的自然语言处理推荐阅读
 ------------
 （点击题目直达论文链接）
+
+## Tutorials
+### NLP课程
+- Stanford cs224n：Natural Language Processing with Deep Learning
+    - 课程主页：http://web.stanford.edu/class/cs224n/syllabus.html
+### 深度学习基础知识
+- 理解LSTM：http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
 
 ## Language Modle
 
@@ -29,5 +37,9 @@
 
 - 华为诺亚方舟实验室神经机器翻译“三部曲”：
     - [Modeling Coverage for Neural Machine Translation](https://arxiv.org/abs/1601.04811)
-    - [Context Gates for Neural Machine Translation](https://arxiv.org/abs/1608.06043)
-    - [Neural Machine Translation with Reconstruction](https://arxiv.org/abs/1611.01874)
+            - 覆盖率（Coverage）机制：通过记录哪些词已经被翻译了，鼓励系统翻译未被翻译的词。这个方法可以显著减少遗漏翻译和过度翻译的错误数量。
+    - [Context Gates for Neural Machine Translation](https://arxiv.org/abs/1608.06043) 
+        - 上下文门（Context Gate）方法：在译文生成过程中，实词和虚词对原文信息的依赖是不一样的。该方法通过自动控制原文信息参与生成不同类型译文词的程度，使原文信息更有序、更完整地传输到译文中。
+   - [Neural Machine Translation with Reconstruction](https://arxiv.org/abs/1611.01874)
+        - 基于重构（Reconstruction）的忠实度指标：以译文重新翻译成原文的程度来衡量译文的忠实度。通过将重构指标引入训练过程，系统可生成更忠于原文的译文。 
+
