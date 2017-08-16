@@ -20,3 +20,4 @@
 | 07.22 | 雷扬帆 | What do Neural Machine Translation Models Learn about Morphology?<br>Visualizing and understanding neural machine translation</br> | [link1](https://arxiv.org/abs/1704.03471)<br>[link2](http://nlp.csai.tsinghua.edu.cn/~ly/papers/acl2017_dyz.pdf)</br> |
 | 07.22 | 魏相鹏 | Dual Supervised Learning | [link](https://arxiv.org/abs/1707.00415) |
 | 08.09 | 邢璐茜 | Pointer Network & It's application in ACL 16\17 | |
+| 08.16 | 雷扬帆 | Interactive Attention for Neural Machine Translation<br>Neural Machine Translation with Supervised Attention | |
