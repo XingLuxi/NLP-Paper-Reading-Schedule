@@ -21,3 +21,11 @@
 | 07.22 | 魏相鹏 | Dual Supervised Learning | [link](https://arxiv.org/abs/1707.00415) |
 | 08.09 | 邢璐茜 | Pointer Network & It's application in ACL 16\17 | |
 | 08.16 | 雷扬帆 | Interactive Attention for Neural Machine Translation<br>Neural Machine Translation with Supervised Attention | |
+| 09.23 | 邢璐茜 | Plan, Attend, Generate: Char-NMT with Planning | |
+| 09.23 | 魏相鹏 | AI Challenger | |
+| 09.23 | 谢玉强 | RNN | |
+| 09.23 | 孙雅静 | Neural Machine Translation with Word Predictions | |
+| 10.14 | 邢璐茜 | CWMT2017 Review | |
+| 10.14 | 魏相鹏 | Experiments | |
+| 10.14 | 谢玉强 | A Character-Aware Encoder for Neural Machine Translation | |
+| 10.14 | 孙雅静 | Sequence-to-Dependency Neural Machine Translation | |
