@@ -11,3 +11,4 @@
 
 #### [深度学习下的自然语言处理必读论文](https://github.com/XingLuxi/NLP-Paper-Reading-Schedule/blob/master/dl-for-nlp-paper.md) 
 
+#### [CWMT 2017 论文汇总(部分)](https://github.com/XingLuxi/NLP-Paper-Reading-Schedule/blob/master/CWMT2017-Paper-Review.md)
