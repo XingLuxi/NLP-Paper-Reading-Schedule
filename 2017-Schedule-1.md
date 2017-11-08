@@ -29,10 +29,10 @@
 | 10.14 | 魏相鹏 | Experiments | |
 | 10.14 | 谢玉强 | A Character-Aware Encoder for Neural Machine Translation | |
 | 10.14 | 孙雅静 | Sequence-to-Dependency Neural Machine Translation | |
-| 11.04 | 邢璐茜 | Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems (EMNLP,2015) |  |
-| 11.04 | 魏相鹏 | Topic Aware Neural Response Generation (AAAI,2017)| |
-| 11.04 | 雷扬帆 | Graph Convolutional Encoders for Syntax-aware Neural Machine Translation | |
-| 11.04 | 谢玉强 | Agreement on Target-Bidirectional LSTMs for Sequence-to-Sequence Learning (AAAI,2016) <br> Agreement on Target-Bidirectional Neural Machine Translation| |
-| 11.04 | 孙雅静 | Gated-Attention Readers for Text Comprehension | |
+| 11.04 | 邢璐茜 | Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems (EMNLP,2015) | [link](https://arxiv.org/abs/1508.01745) |
+| 11.04 | 魏相鹏 | Topic Aware Neural Response Generation (AAAI,2017)| [link](https://arxiv.org/abs/1606.08340) |
+| 11.04 | 雷扬帆 | Graph Convolutional Encoders for Syntax-aware Neural Machine Translation | [link](https://arxiv.org/abs/1704.04675) |
+| 11.04 | 谢玉强 | Agreement on Target-Bidirectional LSTMs for Sequence-to-Sequence Learning (AAAI,2016) <br> Agreement on Target-Bidirectional Neural Machine Translation（NAACL-HLT,2016）|  [link1](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12028) <br> [link2](http://www.aclweb.org/anthology/N16-1046) |
+| 11.04 | 孙雅静 | Gated-Attention Readers for Text Comprehension | [link](https://arxiv.org/abs/1606.01549) |
 
 
