@@ -19,16 +19,16 @@
 | 07.22 | 邢璐茜 | Knowledge-Based Semantic Embedding for Machine Translation | [link](http://aclweb.org/anthology/P16-1212) |
 | 07.22 | 雷扬帆 | What do Neural Machine Translation Models Learn about Morphology?<br>Visualizing and understanding neural machine translation</br> | [link1](https://arxiv.org/abs/1704.03471)<br>[link2](http://nlp.csai.tsinghua.edu.cn/~ly/papers/acl2017_dyz.pdf)</br> |
 | 07.22 | 魏相鹏 | Dual Supervised Learning | [link](https://arxiv.org/abs/1707.00415) |
-| 08.09 | 邢璐茜 | Pointer Network & It's application in ACL 16\17 | |
-| 08.16 | 雷扬帆 | Interactive Attention for Neural Machine Translation<br>Neural Machine Translation with Supervised Attention | |
-| 09.23 | 邢璐茜 | Plan, Attend, Generate: Char-NMT with Planning | |
+| 08.09 | 邢璐茜 | Pointer Network & It's application in ACL 16\17 | [link](https://arxiv.org/abs/1506.03134) |
+| 08.16 | 雷扬帆 | Interactive Attention for Neural Machine Translation <br> Neural Machine Translation with Supervised Attention | [link1](https://arxiv.org/abs/1610.05011)<br>[link2](https://arxiv.org/abs/1609.04186) |
+| 09.23 | 邢璐茜 | Plan, Attend, Generate: Char-NMT with Planning | [link](https://arxiv.org/abs/1706.05087) |
 | 09.23 | 魏相鹏 | AI Challenger | |
 | 09.23 | 谢玉强 | RNN | |
-| 09.23 | 孙雅静 | Neural Machine Translation with Word Predictions | |
+| 09.23 | 孙雅静 | Neural Machine Translation with Word Predictions（EMNLP,2017） | [link](http://www.aclweb.org/anthology/D17-1013) |
 | 10.14 | 邢璐茜 | CWMT2017 Review | |
 | 10.14 | 魏相鹏 | Experiments | |
-| 10.14 | 谢玉强 | A Character-Aware Encoder for Neural Machine Translation | |
-| 10.14 | 孙雅静 | Sequence-to-Dependency Neural Machine Translation | |
+| 10.14 | 谢玉强 | A Character-Aware Encoder for Neural Machine Translation（COLING,2016） | [link](http://www.aclweb.org/old_anthology/C/C16/C16-1288.pdf) |
+| 10.14 | 孙雅静 | Sequence-to-Dependency Neural Machine Translation（EMNLP,2017）| [link](http://www.aclweb.org/anthology/P17-1065) |
 | 11.04 | 邢璐茜 | Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems (EMNLP,2015) | [link](https://arxiv.org/abs/1508.01745) |
 | 11.04 | 魏相鹏 | Topic Aware Neural Response Generation (AAAI,2017)| [link](https://arxiv.org/abs/1606.08340) |
 | 11.04 | 雷扬帆 | Graph Convolutional Encoders for Syntax-aware Neural Machine Translation | [link](https://arxiv.org/abs/1704.04675) |
