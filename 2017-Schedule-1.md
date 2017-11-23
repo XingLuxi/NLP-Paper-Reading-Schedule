@@ -34,5 +34,10 @@
 | 11.04 | 雷扬帆 | Graph Convolutional Encoders for Syntax-aware Neural Machine Translation | [link](https://arxiv.org/abs/1704.04675) |
 | 11.04 | 谢玉强 | Agreement on Target-Bidirectional LSTMs for Sequence-to-Sequence Learning (AAAI,2016) <br> Agreement on Target-Bidirectional Neural Machine Translation（NAACL-HLT,2016）|  [link1](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12028) <br> [link2](http://www.aclweb.org/anthology/N16-1046) |
 | 11.04 | 孙雅静 | Gated-Attention Readers for Text Comprehension | [link](https://arxiv.org/abs/1606.01549) |
+| 11.25 | 邢璐茜 | Unsupervised Machine Translation Using Monolingual Corpora Only | [link](https://arxiv.org/abs/1711.00043) |
+| 11.25 | 魏相鹏 | Unsupervised Neural Machine Translation | [link](https://arxiv.org/abs/1710.11041) |
+| 11.25 | 孙雅静 | Memory Augmented Neural Machine Translation | EMNLP,2017<br>[link](https://arxiv.org/abs/1708.02005) |
+| 11.25 | 谢玉强 | Incorporating Word Reordering Knowledge into Attention-based Neural Machine Translation | ACL,2017 <br> [link](http://www.aclweb.org/anthology/P17-1140) |
+
 
 
