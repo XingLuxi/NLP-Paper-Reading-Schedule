@@ -38,8 +38,13 @@
 | 11.25 | 魏相鹏 | Unsupervised Neural Machine Translation | [link](https://arxiv.org/abs/1710.11041) |
 | 11.25 | 孙雅静 | Memory Augmented Neural Machine Translation | EMNLP,2017<br>[link](https://arxiv.org/abs/1708.02005) |
 | 11.25 | 谢玉强 | Incorporating Word Reordering Knowledge into Attention-based Neural Machine Translation | ACL,2017 <br> [link](http://www.aclweb.org/anthology/P17-1140) |
+| 12.16 | 魏相鹏 | Decoding with Value Networks for Neural Machine Translation | NIPS,2017 <br> [link](http://papers.nips.cc/paper/6622-decoding-with-value-networks-for-neural-machine-translation)|
 | 12.16 | 孙雅静 | Learning to Remember Translation History with Continuous Cache | TACL,2018 <br> [link](https://arxiv.org/abs/1711.09367) |
 | 12.16 | 谢玉强 | Adversarial Multi-task Learning for Text Classification | ACL,2017 <br> [link](https://arxiv.org/abs/1704.05742)|
+| 01.13 | 邢璐茜 | Deliberation Networks: Sequence Generation Beyond One-Pass Decoding | NIPS,2017 <br> [link](https://papers.nips.cc/paper/6775-deliberation-networks-sequence-generation-beyond-one-pass-decoding.pdf)|
+| 01.13 | 谢玉强 | 词法分析调研 | |
+| 01.13 | 孙雅静 | 句法分析调研 | |
+| 01.13 | 彭  伟 | The Colorful World in the Neural Network | |
 
 
 
