@@ -15,5 +15,5 @@
 | 04.15 | 魏相鹏 | NLG survey(partly) | |
 | 04.15 | 雷扬帆 | 开题报告 | |
 | 04.15 | 谢玉强 | Neural Word Segmentation Learning for Chinese | |
-| 04.15 | 孙雅静 | <b>Non autoregressive neural machine translation <b>Deterministic Non autoregressive neural sequence modeling by iterative refinement | |
+| 04.15 | 孙雅静 | <br>Non autoregressive neural machine translation <br>Deterministic Non autoregressive neural sequence modeling by iterative refinement | |
 | 04.15 | 彭  伟 | 毕设报告 + LSTM-CRF | |
