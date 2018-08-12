@@ -17,3 +17,28 @@
 | 04.15 | 谢玉强 | Neural Word Segmentation Learning for Chinese | |
 | 04.15 | 孙雅静 | Non autoregressive neural machine translation <br>Deterministic Non autoregressive neural sequence modeling by iterative refinement | |
 | 04.15 | 彭  伟 | 毕设报告 + LSTM-CRF | |
+| 05.12 | 邢璐茜 | Inter-Weighted Alignment Network for Sentence Pair Modeling. | EMNLP,2017.<br> [link](https://aclanthology.info/pdf/D/D17/D17-1122.pdf) |
+| 05.12 | 魏相鹏 | 知识库问答系统-综述 |  |
+| 05.12 | 雷扬帆 | Low Resource NMT 开题预讲 | |
+| 05.12 | 孙雅静 | Recursive Neural Network Architecture | |
+| 05.12 | 谢玉强 | Inner Attention based Recurrent Neural Networks for Answer Selection | ACL,2016.<br>[link](http://www.aclweb.org/anthology/P16-1122) |
+| 06.09 | 邢璐茜 | MRC 综述(Part I) | |
+| 06.09 | 魏相鹏 | Deep contextualized word representations | NAACL,2018.<br>Best paper<br>[link](http://www.aclweb.org/anthology/N18-1202) |
+| 06.09 | 雷扬帆 | Learning Visually Grounded Sentence Representations | |
+| 06.09 | 孙雅静 | Generative Adversarial Network | |
+| 06.09 | 谢玉强 | A Compare-Propagate Architecture with Alignment Factorization for NLI | [link](https://arxiv.org/pdf/1801.00102)|
+| 06.30 | 邢璐茜 | MRC 综述(Part II) | |
+| 06.30 | 魏相鹏 | Deep Reinforcement Learning for Sequence to Sequence Models | [link](https://arxiv.org/pdf/1805.09461) |
+| 06.30 | 雷扬帆 | Bilateral Multi-Perspective Matching for Natural Language Sentences | IJCAI,2017<br>[link](https://www.ijcai.org/proceedings/2017/579)|
+| 06.30 | 孙雅静 | Transformation networks for target-oriented sentiment classification | ACL,2018<br>[link](http://aclweb.org/anthology/P18-1087) |
+| 06.30 | 谢玉强 | Factorization Machines | [link](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)|
+| 08.03 | 魏相鹏 | A Simple and Effective Approach to Coverage-Aware NMT<br>Bag-of-Words as Traget for NMT | ACL,2018<br>short paper |
+| 08.03 | 孙雅静 | 对话系统综述 | |
+| 08.03 | 谢玉强 | Syntax-aware Entity Embedding for Neural Relation Extraction | AAAI,2018.<br>[link](https://arxiv.org/pdf/1801.03603) |
+| 08.03 | 彭  伟 | 语言表示 | |
+| 08.12 | 邢璐茜 | MRC 综述(Part III) | R-Net<br>FastQA |
+| 08.12 | 雷扬帆 | Multiway Attention Networks for Modeling Sentence Pairs | IJCAI,2018.<br>[link](https://www.ijcai.org/proceedings/2018/0613.pdf) |
+| 08.12 | 孙雅静 | 对话系统综述-safe response | |
+| 08.12 | 谢玉强 | MRC 模型介绍 | GA-reader<br>Match-LSTM |
+| 08.12 | 彭     伟 | Learned in Translation: Contextualized Word Vectors | NIPS,2017<br>[link](http://papers.nips.cc/paper/7209-learned-in-translation-contextualized-word-vectors) |
+
