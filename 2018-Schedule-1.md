@@ -42,13 +42,13 @@
 | 08.12 | 谢玉强 | MRC 模型介绍 | GA-reader<br>Match-LSTM |
 | 08.12 | 彭     伟 | Learned in Translation: Contextualized Word Vectors | NIPS,2017<br>[link](http://papers.nips.cc/paper/7209-learned-in-translation-contextualized-word-vectors) |
 | 08.20 | 邢璐茜 | MRC: J-Net Exploring Question understanding & Adaptation in NN-based QA |  |
-| 08.20 | 魏相鹏 | VAE与NMT |  |
-| 08.20 | 孙雅静 | 对话系统: Safe response |  |
+| 08.20 | 魏相鹏 | VAE与NMT | Variational Neural Machine Translation. EMNLP,2016. |
+| 08.20 | 孙雅静 | 对话系统: Safe response | 1. Neural Response Generation via GAN with an Approxiamte Embedding Layer.<br>2. Generating Informative Responses with Controlled Sentence Function |
 | 09.04 | 邢璐茜 | MRC: Adversarial Evaluation & Unanswerable Question for SQuAD |  |
 | 09.04 | 魏相鹏 | 鲁棒性神经机器翻译 |  |
 | 09.04 | 雷扬帆 | 文本匹配 |  |
-| 09.04 | 孙雅静 | 对话: 对话一致性 <br> CoQA |  |
-| 09.14 | 邢璐茜 | MRC: Co-Match |  |
-| 09.14 | 魏相鹏 | 文档级神经机器翻译 |  |
-| 09.14 | 谢玉强 | Match-LSTM |  |
-| 09.14 | 孙雅静 | 文本改写 | Generating Sentences by Editing Prototypes |
+| 09.04 | 孙雅静 | 对话: 对话一致性 <br> CoQA | 1. A Persona-Based Neural Conversation Model.<br>2. Learning Symmetric collaborateve Dialogue with Dynamic Knowledge Graph Embedding.<br>3. CoQA: A Conversational Question Answering Challenge. |
+| 09.14 | 邢璐茜 | MRC: Co-Match for Multi-Choice Reading Comprehension | ACL,2018. |
+| 09.14 | 魏相鹏 | 文档级神经机器翻译 | Document-Level Neural Machine Translation with Hierachical Attention Networks. EMNLP,2018 |
+| 09.14 | 谢玉强 | Match-LSTM | ICLR,2017 |
+| 09.14 | 孙雅静 | 文本改写 | Generating Sentences by Editing Prototypes. TACL,2018 |
