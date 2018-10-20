@@ -52,3 +52,16 @@
 | 09.14 | 魏相鹏 | 文档级神经机器翻译 | Document-Level Neural Machine Translation with Hierachical Attention Networks. EMNLP,2018 |
 | 09.14 | 谢玉强 | Match-LSTM | ICLR,2017 |
 | 09.14 | 孙雅静 | 文本改写 | Generating Sentences by Editing Prototypes. TACL,2018 |
+| 09.22 | 邢璐茜 | CopyNet | 1. Pointer Network<br>2. Incorporating Copying mechanism in Sequence-to-Sequence<br>3. Get to The Point: Summarization with Pointer-Generator Networks |
+| 09.22 | 魏相鹏 | Dynamic Sentence Sampling for Efficient Training of NMT | ACL,2018 |
+| 09.22 | 雷扬帆 | Modeling Sentence Tutorial |  |
+| 09.22 | 谢玉强 | Two Method for Training Deeper Networks | 1. Highway Network<br>2. Residual Network |
+| 09.22 | 孙雅静 | GAN回顾 |  |
+| 09.22 | 彭   伟 | Neural Machine Translation by Jointly Learning to Align and Translate |  |
+| 10.20 | 邢璐茜 | The Pre-Training Language Model | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding |
+| 10.20 | 魏相鹏 | Machine Translation with Weakly Paired Bilingual Documents | ICLR,2019. OpenReview |
+| 10.20 | 谢玉强 | Semantic Sentence Matching with Densely-connected Recurrent and Co-attentive Information |  |
+| 10.20 | 孙雅静 | Reading Wikipedia to Answer Open-domain Questions | ACL,2017 |
+| 10.20 | 彭   伟 | Attention is all you need | NIPS,2017 |
+
+
