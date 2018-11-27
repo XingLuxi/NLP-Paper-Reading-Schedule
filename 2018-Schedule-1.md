@@ -47,7 +47,7 @@
 | 09.04 | 邢璐茜 | MRC: Adversarial Evaluation & Unanswerable Question for SQuAD |  |
 | 09.04 | 魏相鹏 | 鲁棒性神经机器翻译 |  |
 | 09.04 | 雷扬帆 | 文本匹配 |  |
-| 09.04 | 孙雅静 | 对话: 对话一致性 <br> 1. [A Persona-Based Neural Conversation Model](https://arxiv.org/pdf/1603.06155.pdf)<br>2. [Learning Symmetric collaborateve Dialogue with Dynamic Knowledge Graph Embedding](http://aclweb.org/anthology/P17-1162)<br>3.[CoQA: A Conversational Question Answering Challenge](https://arxiv.org/pdf/1808.07042.pdf) | 1.arXiv:1603.06155<br> 2.ACL,2017 <br>3.arXiv:1808.07042 |
+| 09.04 | 孙雅静 | 对话: 对话一致性 <br> 1. [A Persona-Based Neural Conversation Model](https://arxiv.org/pdf/1603.06155.pdf)<br>2. [Learning Symmetric collaborateve Dialogue with Dynamic Knowledge Graph Embedding](http://aclweb.org/anthology/P17-1162)<br>3.[CoQA: A Conversational Question Answering Challenge](https://arxiv.org/pdf/1808.07042.pdf) | arXiv,2016<br> ACL,2017 <br>arXiv,2018 |
 | 09.14 | 邢璐茜 | MRC: Co-Match for Multi-Choice Reading Comprehension | ACL,2018 |
 | 09.14 | 魏相鹏 | 文档级神经机器翻译<br>1. [Document-Level Neural Machine Translation with Hierachical Attention Networks](https://arxiv.org/abs/1809.01576)| EMNLP,2018 |
 | 09.14 | 谢玉强 | [Match-LSTM](https://arxiv.org/pdf/1608.07905.pdf) | ICLR,2017 |
