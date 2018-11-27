@@ -2,7 +2,7 @@
 
 |Date| Reporter | Title/Papers | Confere. |
 |:--|:-------|:-------|:--|
-| 01.13 | 邢璐茜 | [Deliberation Networks: Sequence Generation Beyond One-Pass Decoding](https://papers.nips.cc/paper/6775-deliberation-networks-sequence-generation-beyond-one-pass-decoding.pdf) | NIPS,2017|  
+| 01.13 | 邢璐茜 | [Deliberation Networks: Sequence Generation Beyond One-Pass Decoding](https://papers.nips.cc/paper/6775-deliberation-networks-sequence-generation-beyond-one-pass-decoding.pdf) | NIPS,2017|
 | 01.13 | 谢玉强 | 词法分析调研 | |
 | 01.13 | 孙雅静 | 句法分析调研 | |
 | 01.13 | 彭  伟 | The Colorful World in the Neural Network | |
@@ -32,7 +32,7 @@
 | 06.30 | 雷扬帆 | [Bilateral Multi-Perspective Matching for Natural Language Sentences](https://www.ijcai.org/proceedings/2017/579) | IJCAI,2017|
 | 06.30 | 孙雅静 | [Transformation networks for target-oriented sentiment classification](http://aclweb.org/anthology/P18-1087) | ACL,2018 |
 | 06.30 | 谢玉强 | [Factorization Machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf) | ICDM,2010 |
-| 08.03 | 魏相鹏 | [A Simple and Effective Approach to Coverage-Aware NMT<br>Bag-of-Words as Traget for NMT](http://www.aclweb.org/anthology/P18-2053) | ACL,2018<br>short paper |
+| 08.03 | 魏相鹏 | 1. [A Simple and Effective Approach to Coverage-Aware NMT](http://aclweb.org/anthology/P18-2047)<br>2. [Bag-of-Words as Traget for NMT](http://www.aclweb.org/anthology/P18-2053) | ACL,2018<br>short paper |
 | 08.03 | 孙雅静 | 对话系统综述 | |
 | 08.03 | 谢玉强 | [Syntax-aware Entity Embedding for Neural Relation Extraction](https://arxiv.org/pdf/1801.03603) | AAAI,2018|
 | 08.03 | 彭  伟 | 语言表示 | |
@@ -47,7 +47,7 @@
 | 09.04 | 邢璐茜 | MRC: Adversarial Evaluation & Unanswerable Question for SQuAD |  |
 | 09.04 | 魏相鹏 | 鲁棒性神经机器翻译 |  |
 | 09.04 | 雷扬帆 | 文本匹配 |  |
-| 09.04 | 孙雅静 | 对话: 对话一致性 <br> 1. [A Persona-Based Neural Conversation Model](https://arxiv.org/pdf/1603.06155.pdf)<br>2. [Learning Symmetric collaborateve Dialogue with Dynamic Knowledge Graph Embedding](http://aclweb.org/anthology/P17-1162)<br>3.[CoQA: A Conversational Question Answering Challenge](https://arxiv.org/pdf/1808.07042.pdf) | arXiv,2016<br> ACL,2017 <br>arXiv,2018 |
+| 09.04 | 孙雅静 | 对话: 对话一致性 <br>1. [A Persona-Based Neural Conversation Model](https://arxiv.org/pdf/1603.06155.pdf)<br>2. [Learning Symmetric collaborateve Dialogue with Dynamic Knowledge Graph Embedding](http://aclweb.org/anthology/P17-1162)<br>3.[CoQA: A Conversational Question Answering Challenge](https://arxiv.org/pdf/1808.07042.pdf) | arXiv,2016<br> ACL,2017 <br>arXiv,2018 |
 | 09.14 | 邢璐茜 | MRC: Co-Match for Multi-Choice Reading Comprehension | ACL,2018 |
 | 09.14 | 魏相鹏 | 文档级神经机器翻译<br>1. [Document-Level Neural Machine Translation with Hierachical Attention Networks](https://arxiv.org/abs/1809.01576)| EMNLP,2018 |
 | 09.14 | 谢玉强 | [Match-LSTM](https://arxiv.org/pdf/1608.07905.pdf) | ICLR,2017 |
