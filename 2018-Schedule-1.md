@@ -23,7 +23,7 @@
 | 05.12 | 孙雅静 | Recursive Neural Network Architecture | |
 | 05.12 | 谢玉强 | [Inner Attention based Recurrent Neural Networks for Answer Selection](http://www.aclweb.org/anthology/P16-1122) | ACL,2016|
 | 06.09 | 邢璐茜 | MRC 综述(Part I) | |
-| 06.09 | 魏相鹏 | [Deep contextualized word representations](http://www.aclweb.org/anthology/N18-1202) | NAACL,2018 |
+| 06.09 | 魏相鹏 | [Deep contextualized word representations](http://www.aclweb.org/anthology/N18-1202) | NAACL,2018<br>best paper|
 | 06.09 | 雷扬帆 | [Learning Visually Grounded Sentence Representations](http://aclweb.org/anthology/N18-1038) | NAACL-HLT,2018 |
 | 06.09 | 孙雅静 | Generative Adversarial Network | |
 | 06.09 | 谢玉强 | [Compare, Compress and Propagate: Enhancing Neural Architectures with Alignment Factorization for Natural Language Inference](https://arxiv.org/pdf/1801.00102) | EMNLP,2018|
@@ -32,7 +32,7 @@
 | 06.30 | 雷扬帆 | [Bilateral Multi-Perspective Matching for Natural Language Sentences](https://www.ijcai.org/proceedings/2017/579) | IJCAI,2017|
 | 06.30 | 孙雅静 | [Transformation networks for target-oriented sentiment classification](http://aclweb.org/anthology/P18-1087) | ACL,2018 |
 | 06.30 | 谢玉强 | [Factorization Machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf) | ICDM,2010 |
-| 08.03 | 魏相鹏 | A Simple and Effective Approach to Coverage-Aware NMT<br>Bag-of-Words as Traget for NMT | ACL,2018<br>short paper |
+| 08.03 | 魏相鹏 | [A Simple and Effective Approach to Coverage-Aware NMT<br>Bag-of-Words as Traget for NMT](http://www.aclweb.org/anthology/P18-2053) | ACL,2018<br>short paper |
 | 08.03 | 孙雅静 | 对话系统综述 | |
 | 08.03 | 谢玉强 | [Syntax-aware Entity Embedding for Neural Relation Extraction](https://arxiv.org/pdf/1801.03603) | AAAI,2018|
 | 08.03 | 彭  伟 | 语言表示 | |
