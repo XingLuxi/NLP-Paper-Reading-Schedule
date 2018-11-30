@@ -4,14 +4,12 @@ Contributed by Luxi Xing.
 
 ## Introduction
 
-Based on the style of the ANSWER for each datasets, we split the datasets into several category
+Based on the style of the ANSWER for each datasets, we split the datasets into several category and we will give details for each datasets.
 
 >   1. [Extractive](#Extractive)
->   2. Multi-Choice
->   3. Generative
->   4. Sequential
-
-and we will give details for each datasets.
+>   2. [Multi-Choice](#Multi-Choice)
+>   3. [Generative](#Generative)
+>   4. [Sequential](#Sequential)
 
 ## Extractive 
 
