@@ -13,9 +13,29 @@ Based on the style of the ANSWER for each datasets, we split the datasets into s
 
 ## Extractive 
 
+
+| Dataset | Language | Domain | Document | Question | Size(Train/Dev/Test) | Year | Features |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| SQuAD | English | Wikipedia |  |  | 87k/10k | 2016 |  |
+
+
 ## Multi-Choice
+
+| Dataset | Language | Domain | Document | Question | Size(Train/Dev/Test) | Year | Features |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| RACE | English | Multi |  |  | 88k/5k | 2017 |  |
+| ARC | English | Science |  |  | 14M/7787 | 2018 | hard |
+| MCScript | English | InScript |  |  | 9731/2797 | 2018 |  |
 
 ## Generative
 
+| Dataset | Language | Domain | Document | Question | Size(Train/Dev/Test) | Year | Features |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| MSMARCO | English | Web |  |  | 100k | 2016 |  |
+
 ## Sequential
 
+| Dataset | Language | Domain | Document | Question | Size(Train/Dev/Test) | Year | Features |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| QuAC | English | Wikipedia |  |  |  | 2018 |  |
+| CoQA | English | Wikipedia |  |  |  | 2018 |  |
