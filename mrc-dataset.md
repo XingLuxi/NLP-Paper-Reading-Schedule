@@ -6,7 +6,10 @@ Contributed by Luxi Xing.
 
 Based on the style of the ANSWER for each datasets, we split the datasets into several category
 
->   Extractive / Multi-Choice / Generative / Sequential
+>   1. [Extractive](#Extractive)
+>   2. Multi-Choice
+>   3. Generative
+>   4. Sequential
 
 and we will give details for each datasets.
 
