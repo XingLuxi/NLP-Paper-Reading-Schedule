@@ -64,10 +64,10 @@
 | 10.20 | 孙雅静 | [Reading Wikipedia to Answer Open-domain Questions](https://aclanthology.info/papers/P17-1171/p17-1171) | ACL,2017 |
 | 10.20 | 彭  伟 | [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) | NIPS,2017 |
 | 11.17 | 邢璐茜 | MRC: Multi-Step Reasoning & Open-Domain QA <br>1. [Stochastic Answer Networks for Machine Reading Comprehension](http://aclweb.org/anthology/P18-1157)<br>2. [Denoising Distantly Supervised Open-Domain Question Answering](http://aclweb.org/anthology/P18-1161) | ACL,2018<br>ACL,2018 |
-| 11.17 | 孙雅静 | 1. Sequential Matching Network：A New Architecture for Multi-turn Response Selection in Retrieval-Based Chatbots<br>2. FlowQA: Grasping Flow in History for Conversational Machine Comprehension | ACL,2017<br>ICLR,2019.OR |
-| 11.17 | 彭  伟 | 文本分类<br>1. Recurrent convolutional neural networks for text classification <br>2. Hierarchical Attention Networks for Document Classification | AAAI,2015<br>NAACL,2016 |
+| 11.17 | 孙雅静 | 1. [Sequential Matching Network：A New Architecture for Multi-turn Response Selection in Retrieval-Based Chatbots](http://www.aclweb.org/anthology/P17-1046)<br>2. [FlowQA: Grasping Flow in History for Conversational Machine Comprehension](https://openreview.net/forum?id=ByftGnR9KX) | ACL,2017<br>ICLR,2019.OR |
+| 11.17 | 彭  伟 | 文本分类<br>1. [Recurrent convolutional neural networks for text classification](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9745/9552) <br>2. [Hierarchical Attention Networks for Document Classification](http://www.aclweb.org/anthology/N16-1174) | AAAI,2015<br>NAACL,2016 |
 | 12.09 | 邢璐茜 | MRC: external knowledge<br>[Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge](http://aclweb.org/anthology/P18-1076) | ACL,2018 |
-| 12.09 | 魏相鹏 | Understanding Back-Translation at Scale | EMNLP,2018 |
-| 12.09 | 彭  伟 | End-to-End Memory Networks | NIPS,2015 |
+| 12.09 | 魏相鹏 | [Understanding Back-Translation at Scale](http://aclweb.org/anthology/D18-1045) | EMNLP,2018 |
+| 12.09 | 彭  伟 | [End-to-End Memory Networks](https://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf) | NIPS,2015 |
 
 
