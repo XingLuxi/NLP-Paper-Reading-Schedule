@@ -63,5 +63,11 @@
 | 10.20 | 谢玉强 | [Semantic Sentence Matching with Densely-connected Recurrent and Co-attentive Information](https://arxiv.org/pdf/1805.11360.pdf) | AAAI,2019 |
 | 10.20 | 孙雅静 | [Reading Wikipedia to Answer Open-domain Questions](https://aclanthology.info/papers/P17-1171/p17-1171) | ACL,2017 |
 | 10.20 | 彭  伟 | [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) | NIPS,2017 |
+| 11.17 | 邢璐茜 | MRC: Multi-Step Reasoning & Open-Domain QA <br>1. [Stochastic Answer Networks for Machine Reading Comprehension](http://aclweb.org/anthology/P18-1157)<br>2. [Denoising Distantly Supervised Open-Domain Question Answering](http://aclweb.org/anthology/P18-1161) | ACL,2018<br>ACL,2018 |
+| 11.17 | 孙雅静 | 1. Sequential Matching Network：A New Architecture for Multi-turn Response Selection in Retrieval-Based Chatbots<br>2. FlowQA: Grasping Flow in History for Conversational Machine Comprehension | ACL,2017<br>ICLR,2019.OR |
+| 11.17 | 彭  伟 | 文本分类<br>1. Recurrent convolutional neural networks for text classification <br>2. Hierarchical Attention Networks for Document Classification | AAAI,2015<br>NAACL,2016 |
+| 12.09 | 邢璐茜 | MRC: external knowledge<br>[Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge](http://aclweb.org/anthology/P18-1076) | ACL,2018 |
+| 12.09 | 魏相鹏 | Understanding Back-Translation at Scale | EMNLP,2018 |
+| 12.09 | 彭  伟 | End-to-End Memory Networks | NIPS,2015 |
 
 
