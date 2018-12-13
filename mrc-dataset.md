@@ -31,7 +31,7 @@ Based on the style of the ANSWER for each datasets, we split the datasets into s
 
 | Dataset | Language | Domain | Document | Question | Size(Train/Dev/Test) | Year | Features |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| MSMARCO | English | Web |  |  | 100k | 2016 |  |
+| MSMARCOv2 | English | Web |  |  | 100k | 2016 |  |
 
 ## Sequential
 
