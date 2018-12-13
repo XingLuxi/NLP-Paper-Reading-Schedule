@@ -34,6 +34,8 @@ Based on the style of the ANSWER for each datasets, we split the datasets into s
 | MSMARCOv1 | English | Web |  |  | 100k | 2016 |  |
 | MSMARCOv2 | English | Web |  |  | 100k | 2018 |  |
 
+- More details about MSMARCO, please reference to [this REPO](https://github.com/IndexFziQ/MSMARCO-MRC-Analysis)
+
 ## Sequential
 
 | Dataset | Language | Domain | Document | Question | Size(Train/Dev/Test) | Year | Features |
