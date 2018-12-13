@@ -1,6 +1,6 @@
 # Datasets for Machine Reading Comprehension
 
-Contributed by Luxi Xing and Yuqiang Xie.
+Contributed by Luxi Xing and Yuqiang Xie. IIE, CAS.
 
 ## Introduction
 
