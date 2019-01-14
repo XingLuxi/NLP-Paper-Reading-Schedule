@@ -10,6 +10,7 @@ Based on the style of the ANSWER for each datasets, we split the datasets into s
 >   2. [Multi-Choice](#Multi-Choice)
 >   3. [Generative](#Generative)
 >   4. [Sequential](#Sequential)
+>   ~~5. Cloze-Style~~
 
 ## Extractive 
 
@@ -26,6 +27,8 @@ Based on the style of the ANSWER for each datasets, we split the datasets into s
 | RACE | English | Multi |  |  | 88k/5k | 2017 |  |
 | ARC | English | Science |  |  | 14M/7787 | 2018 | hard |
 | MCScript | English | InScript |  |  | 9731/2797 | 2018 |  |
+| OpenBookQA | English | | | | 4957/500/500| 2018 | multi-hop<br>commonsense<br>science fact|
+| QAngaroo<br>wikihop | English | |  |  | 43738/5129/2451 | 2017 | multi evidence pieces<br>multi options |
 
 ## Generative
 
