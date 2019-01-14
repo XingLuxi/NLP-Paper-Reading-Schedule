@@ -1,5 +1,8 @@
-# 自然语言处理讨论组
+# 自然语言处理组
 
+NELIST, IIE, CAS
+
+National Engineering Laboratory for Information Security Technologies,
 Institute of Information Engineering, Chinese Academy of Sciences
 
 Contributed by Luxi Xing.
