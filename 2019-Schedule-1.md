@@ -18,7 +18,7 @@
 | 02.20 | 彭伟 | Match-LSTM | |
 | 02.20 | 孙雅静 | 个性化对话:<br>1.Persona-Chat对话数据集<br>2.Personalizing a Dialogue Systems with Transfer Reinforcement Learning | |
 | 02.20 | 于静 | Lifelong Learning Cross Media Search | ACM-MM |
-| 03.01 | 邢璐茜 | TG with Commonsense | [blog] (http://xingluxi.github.io/2019/01/23/paper-tg-with-commonsense/) |
+| 03.01 | 邢璐茜 | TG with Commonsense | [blog](http://xingluxi.github.io/2019/01/23/paper-tg-with-commonsense/) |
 | 03.01 | 谢玉强 | Incorporating Structured Commonsense Knowledge in Story Completion | AAAI,2019 |
 | 03.01 | 孙雅静 | What makes a good conversation? How controllable attributes affect human judgments | |
 | 03.08 | 孙雅静 | Learning Personalized End-to-End Goal-Oriented Dialog | AAAI,2019 |
