@@ -27,6 +27,8 @@
 | 03.09 | 魏相鹏 | 1.Cross-Lingual Language Model Pretraining<br>2.An Effective Approach to Unsupervised Machine Translation | |
 | 03.09 | 谢玉强 | Self-supervised learning in video and multi-modal | |
 | 03.09 | 彭伟 | Dynamic Coattention Networks For Question Answering | ICLR,2017 |
+| 03.15 | 谢玉强 | Improving Machine Reading Comprehension with General Reading Strategies | |
+| 03.15 | 邢璐茜 | Improving Question Answering with External Knowledge | |
+| 03.15 | 孙雅静 | Learning to Select Knowledge for Response Generation in Dialog System | |
 |  | | | |
-
 
