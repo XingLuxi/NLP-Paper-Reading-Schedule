@@ -33,11 +33,16 @@
 | 03.22 | 邢璐茜 | Multi-Granularity Hierarchical Attention Fusion Networks for Reading Comprehension and Question Answering | ACL, 2018 |
 | 03.22 | 谢玉强 | Tackling the Story Encding Biases in The Story Cloze Test | ACL,2018 |
 | 03.22 | 于静 | 文本匹配模型介绍 | |
-| 03.29 | 邢璐茜 | Multi-Choice Machine Reading Comprehension Task - PartI | {% post_link mrc-analysis-multichoice details%} |
+| 03.29 | 邢璐茜 | Multi-Choice Machine Reading Comprehension Task - PartI | [details](http://xingluxi.github.io/2019/03/28/mrc-analysis-multichoice/) |
 | 03.29 | 孙雅静 | Sentence embedding Alignment for LifeLong Relation Extraction | NAACL,2019  |
 | 04.12 | 谢玉强 | Does it care what you asked? Understanding Importance of Verbs in QA Model | EMNLP,2018 workshop |
 | 04.12 | 孙雅静 | 1.Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems<br>2.Global-to-Local Memory Pointer Networks for Task-Oriented Dialogue | ACL,2018<br>ICLR,2019 |
 | 04.12 | 李云鹏 | Relation Extraction Survey - 1 | |
-| 04.19 | 邢璐茜 | Commonsense Reasoning for Natural Language Understanding | {% post_link mrc-cs-reasoning-for-nlu-survey detail%} |
+| 04.19 | 邢璐茜 | Commonsense Reasoning for Natural Language Understanding | [details](http://xingluxi.github.io/2019/04/18/mrc-cs-reasoning-for-nlu-survey/) |
+| 05.24 | 彭伟 | 1.A Deep Cascade Model for Multi-Document Reading Comprehension<br>2.Multi-Granularity Hierarchical Attention Fusion Networks for Reading Comprehension and Question Answering | |
+| 05.24 | 魏相鹏 | MASS: Masked Sequence to Sequence Pre-training for Language Generation | ICML,2019 |
+| 05.31 | 邢璐茜 | HotpotQA at ACL 2019 | [details](http://xingluxi.github.io/2019/05/30/mrc-paper-hotpotqa/) |
+| 05.31 | 孙雅静 | Challenges in Building Intelligent Open-domain Dialog Systems | 2019 |
 |  | | | |
+
 
