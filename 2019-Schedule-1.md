@@ -43,6 +43,7 @@
 | 05.24 | 魏相鹏 | MASS: Masked Sequence to Sequence Pre-training for Language Generation | ICML,2019 |
 | 05.31 | 邢璐茜 | HotpotQA at ACL 2019 | [details](http://xingluxi.github.io/2019/05/30/mrc-paper-hotpotqa/) |
 | 05.31 | 孙雅静 | Challenges in Building Intelligent Open-domain Dialog Systems | 2019 |
+| 06.22 | 魏相鹏 | The Evolved Transformer<br>Soft Contextual Data Augmentation for Neural Machine Translation | ICML,2019<br>ACL,2019(short) |
+| 06.22 | 彭伟 | Leveraging knowledge bases in lstms for improving machine reading<br>World knowledge for reading comprehension: Rare entity prediction with hierarchical lstms using external descriptions | ACL,2017 |
 |  | | | |
-
 
