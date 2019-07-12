@@ -45,5 +45,10 @@
 | 05.31 | 孙雅静 | Challenges in Building Intelligent Open-domain Dialog Systems | 2019 |
 | 06.22 | 魏相鹏 | The Evolved Transformer<br>Soft Contextual Data Augmentation for Neural Machine Translation | ICML,2019<br>ACL,2019(short) |
 | 06.22 | 彭伟 | 1. Leveraging knowledge bases in lstms for improving machine reading<br>2. World knowledge for reading comprehension: Rare entity prediction with hierarchical lstms using external descriptions | ACL,2017 |
-|  | | | |
+| 07.01 | 邢璐茜 | XLNet: Generalized Autoregressive Pretraining for Language Understanding | 2019 |
+| 07.01 | 孙雅静 | 1. Corpus: MMD<br>2. Knowledge-aware Multimodal Dialogue Systems | MM2018 |
+| 07.12 | 邢璐茜 | 1. Event2Mind<br>2. ATOMIC | EMNLP,2018<br>AAAI,2019 |
+| 07.12 | 谢玉强 | COMET: Commonsense Transformers for Automatic Knowledge Graph Construction | ACL,2019 |
+| 07.12 | 孙雅静 | 1. Incremental Learning from Scratch for Task-Oriented Dialogue System<br>2. Continuous Learning for Large-Scale Personalized Domain Classification | ACL,2019<br>NAACL,2019 |
+| 07.12 | 于静 | Tutorial：Deep Learning on Graphs with Graph Convolutional Networks |  |
 
