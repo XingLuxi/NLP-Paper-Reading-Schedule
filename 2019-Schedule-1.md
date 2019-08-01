@@ -51,4 +51,7 @@
 | 07.12 | 谢玉强 | COMET: Commonsense Transformers for Automatic Knowledge Graph Construction | ACL,2019 |
 | 07.12 | 孙雅静 | 1. Incremental Learning from Scratch for Task-Oriented Dialogue System<br>2. Continuous Learning for Large-Scale Personalized Domain Classification | ACL,2019<br>NAACL,2019 |
 | 07.12 | 于静 | Tutorial：Deep Learning on Graphs with Graph Convolutional Networks |  |
+| 07.27 | 彭伟 | Few-Shot Representation Learning for Out-Of-Vocabulary Words | NAACL,2019 |
+| 07.27 | 孙雅静 | Neural Response Generation with Meta-Words | ACL,2019 |
+| 07.27 | 魏相鹏 | 1. Bridging the Gap between Training and Inference for Neural Machine Translation<br>2. Learning Deep Transformer Models for Machine Translation | ACL,2019 |
 
