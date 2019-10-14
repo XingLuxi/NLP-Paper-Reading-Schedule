@@ -57,4 +57,7 @@
 | 08.02 | 邢璐茜 | Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension | ACL,2019<br>[note](http://xingluxi.github.io/2019/07/29/paper-acl2019-kt-net/) |
 | 08.02 | 谢玉强 | Towards a Deep and Unified Understanding of Deep Neural Models in NLP | ICML,2019<br>[note](https://zhuanlan.zhihu.com/p/75924259) |
 | 08.02 | 彭伟 | Simple and Effective Curriculum Pointer-Generator Networks for Reading Comprehension over Long Narratives | ACL,2019 |
-
+| 10.12 | 彭伟 | 知识蒸馏 |  |
+| 10.12 | 魏相鹏 | Incorporating BERT into Neural Machine Translation | ICLR,2020<br>under review |
+| 10.12 | 邢璐茜 | What's Missing? A Knowledge Gap Guided Approach for Multi-hop Question Answering | EMNLP,2019 |
+|  |  |  |  |
