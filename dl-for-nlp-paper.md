@@ -5,17 +5,33 @@
 ## Tutorials
 ### NLP课程
 - Stanford cs224n：Natural Language Processing with Deep Learning
-    - 课程主页：http://web.stanford.edu/class/cs224n/syllabus.html
-### 深度学习基础知识
+    - 课程主页：http://web.stanford.edu/class/cs224n/index.html#schedule
+    - 课程视频：https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
+### 深度学习&神经网络基础知识
+
+深度学习教程：
+
+- 李宏毅：http://speech.ee.ntu.edu.tw/~tlkagk/courses.html
+- 邱锡鹏：https://nndl.github.io/ 
+
+神经网络
+
 - 理解LSTM：http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+- 理解Transformer：
+    - http://nlp.seas.harvard.edu/2018/04/03/attention.html
+    - http://jalammar.github.io/illustrated-transformer/
 
-
-## Language Modle
+## Language Models
 
 - [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 - [A Scalable Hierarchical Distributed Language Model](http://www.cs.toronto.edu/~fritz/absps/andriytree.pdf)
 - [Recurrent neural network based language model](https://www.researchgate.net/publication/221489926_Recurrent_neural_network_based_language_model) 
 - [Recurrent Neural Network Regularization](https://arxiv.org/abs/1409.2329)
+- GPT
+- ELMo
+- BERT
+- XLNet
+- RoBERTa
 
 ## 分布式表示(词向量)
 
